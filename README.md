@@ -14,6 +14,7 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 how many points out of 10 do you deserve on this assignment: 
 I would say about an 8.
 ## Self-Reflection:
-
+I think that this was a hard lab. Though I did mistakenly complete this lab for an earlier lab.
 
 ### How long it took me to finish this?
+It took me about 2 days to finish this.
